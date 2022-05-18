@@ -7,7 +7,7 @@ body {
 }
 .txt {
   font-size: 50px;
-  color: white;
+  color: green;
 }
 .timer {
   display: flex;
