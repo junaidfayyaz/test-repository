@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(52, 41, 41);
+}
+.digit {
+  font-size: 175px;
+  color: white;
+}
+.txt {
+  font-size: 50px;
+  color: white;
+}
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 150px;
+}
+.txt{
+    padding-top: 105px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.btn-container{
+    text-align: center;
+}
+@font-face{
+  font-family: abc;
+  src: url("Water/WaterBrush-Regular.ttf");
+}
+#p{
+  font-family: abc;
+}
